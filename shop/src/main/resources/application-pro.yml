@@ -1,0 +1,7 @@
+spring:
+  thymeleaf:
+    cache: true
+
+img:
+  upload-location : /usr/local/nginx/static/images
+#  access-location : /usr/local/nginx/static/images
